@@ -1,0 +1,407 @@
+
+@media (max-width:1199px){
+.mouse-icon {
+    bottom: 5%;
+}
+.banner-info-items h1 {
+    font-size: 55px;
+    margin-bottom: 15px;
+}
+.banner-info-items p {
+    font-size: 16px;
+}
+.mouse-icon {
+    bottom: 20%;
+}
+.banner-info-items {
+    top: 47%;
+}
+.two {
+    bottom: -6%;
+}
+.big-title p {
+    font-size: 14px;
+    
+}
+}
+@media (max-width:1000px){
+.mouse-icon {
+    bottom: 5%;
+}
+}
+@media (max-width:992px){
+ 
+.banner-info-items h1 {
+    font-size: 29px;
+    font-weight: 700;
+    margin: 0 0 15px;
+    margin-bottom: 15px;
+	
+}
+.mouse-icon {
+    bottom: 5%;
+}
+.banner-info-items {
+    top: 54%;
+    left: 38%;
+}
+
+.two {
+    bottom: -40%;
+    right: 71%;
+}
+.about-button {
+    margin-top: 42px;
+    margin-left: -1px;
+   
+}
+ .counter-col {
+    position: relative;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+ 
+.big-title p {
+    font-size: 14px;
+    width: 75%;
+}
+.our-comment-item .container {
+    width: 100%;
+    
+}
+.media-one p, .media-two p, .media-three p {
+   
+    font-size: 13px;
+    width: 50%;
+}
+.input-area input {
+    width: 100%;
+    font-size: 13px;
+    padding: 12px;
+  
+}
+.colum {
+    padding-bottom: 60px;
+}
+.about-count .row {
+    padding: 20px 0;
+}
+.counter-col {
+    padding: 12px 0;
+}
+.counter-col .count {
+    font-size: 25px;
+}
+.counter-col h5 {
+    padding: 5px 0 0;
+    
+}
+}
+
+
+
+@media (max-width:835px){
+.banner-info-items {
+    top: 47%;
+}	
+
+.banner-info-items h1 {
+    font-size: 40px;
+}
+.banner-info-items p {
+    font-size: 14px;
+    width: 90%;
+    padding-bottom: 12px;
+}
+.banner-info-items h4 {
+    font-size: 19px;
+}
+.two {
+    bottom: -44%;
+    left: 0;
+}
+
+}
+@media (max-width:767px){
+
+.fixed{
+	padding-top:35px;
+	
+}
+.about-logo-area img {
+    margin-top: 75px;
+}
+
+.navbar-default .navbar-toggle {
+    border-color: #ddd;
+}
+button, [type="button"], [type="reset"], [type="submit"] {
+    -webkit-appearance: button;
+}
+.navbar-toggle {
+    border: none;
+    margin-right: 59px;
+    margin-top: 13px;
+}
+button.navbar-toggle.collapsed:hover {
+    background: none;
+}
+
+.navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+    background-color: transparent;
+}
+.navbar-toggle:focus, .navbar-default .navbar-toggle:hover:focus {
+    background-color:none;
+	
+}
+.navbar-default .navbar-toggle .icon-bar {
+    background: #fff !important;
+}
+button.navbar-toggle.mixitup-control-active:focus {
+    outline: 0;
+    background: none;
+}
+button.navbar-toggle.collapsed:focus {
+    outline: 0;
+    background: none;
+}
+div#bs-example-navbar-collapse-1 {
+    overflow: hidden;
+}
+
+.menu-area {
+    background: #111111;
+	z-index:888888;
+	margin-top: -31px;
+}
+
+.bannar-info .container{
+	width:100%;
+}
+.mouse-icon {
+    bottom: 6%;
+}
+.banner-info-items {
+    top: 59%;
+}
+#banner-area {
+    background-position: center right;
+    transition: .5s;
+}
+.big-title h1 {
+    font-size: 30px;
+  
+}
+.menu-area {
+    margin-top: -30px;
+}
+.custom-list li {
+    text-align: center;
+}
+.active a.nav-link:after {
+    width: 22%
+}
+.custom-list li a:hover{
+   border-bottom:1px solid #fff;
+   width:160px;
+   margin:auto;
+}
+.comon-class {
+    margin-top: 50px;
+}
+}
+@media (max-width:560px){
+.banner-info-items h4 {
+    font-size: 16px;
+}
+.banner-info-items h1 {
+    font-size: 30px;
+}
+.banner-info-items p {
+    font-size: 14px;
+    width: 90%;
+    padding-bottom: 12px;
+}
+.menu-area {
+    margin-top: -30px;
+}
+.about-area .col-xs-6 {
+    width: 100%;
+}
+.portfolio-nav ul li {
+    font-size: 12px;
+    margin: 0px 3px;
+    padding: 7px 15px;
+}
+.our-contact-area .col-xs-6 {
+    width: 100%;
+	border:none;
+	border-bottom:1px solid #DDDDDD;
+	
+}
+.our-contact-area .col-xs-6:last-child{
+	border:none;
+	margin:0;
+	padding:0;
+	
+}
+}
+
+
+
+@media (max-width:480px){
+.banner-info-items h4 {
+    font-size: 16px;
+}
+.banner-info-items h1 {
+    font-size: 20px;
+    margin-bottom: 7px;
+}
+.banner-info-items p {
+    font-size: 12px;
+    width: 90%;
+    padding-bottom: 12px;
+    margin-bottom: -6px;
+}
+.bannar-button {
+    color: #444 !important;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: 200;
+    position: relative;
+    display: inline;
+}
+.banner-info-items {
+    top: 50%;
+}
+.about-area .col-xs-6 {
+    width: 100%;
+}
+.about-area {
+    padding-top: 88px;
+}
+.about-logo-area img {
+    margin-top: 53px;
+    margin-left: 0px;
+    max-width: 50%;
+}
+.about-button {
+    margin-top: 25px;
+    margin-left: 0px;
+    padding: 0px 16px;
+}
+.about-items h3 {
+    font-size: 15px;
+    margin: 0 0 11px;
+}
+.services-area .col-xs-6 {
+    width: 100%;
+}
+.services-area {
+    padding-bottom: 36px;
+}
+.skill-area {
+    padding: 50px 0;
+}
+.skill-area .col-xs-6 {
+    width: 100%;
+}
+.skill-main {
+    margin-top: 50px;
+}
+.big-title h1 {
+    font-size: 25px;
+    margin-bottom: -11px;
+}
+.skill-info h2 {
+    font-size: 19px;
+}
+.big-title p {
+    font-size: 12px;
+    width: 95%;
+    margin-bottom: -26px;
+}
+.portfolio-area {
+    padding: 50px 0;
+}
+.portfolio-area .col-xs-6 {
+    width: 100%;
+}
+.our-testimonial {
+    padding: 50px 0;
+}
+.our-blog-area {
+    padding-top: 50px;
+    padding-bottom: 0px;
+}
+.our-contact-area {
+    padding: 50px 0;
+}
+.our-contact-area .col-xs-6 {
+    width: 100%;
+	border:none;
+	border-bottom:1px solid #DDDDDD;
+	
+}
+.our-contact-area .col-xs-6:last-child{
+	border:none;
+	margin:0;
+	padding:0;
+	
+}
+.footer-info {
+    margin-top: 111px;
+}
+#banner-area {
+    background-position: center right;
+    transition: .5s;
+	height:550px;
+}
+.navbar>.container .navbar-brand, .navbar>.container-fluid .navbar-brand {
+    margin-left: 5px;
+    margin-top: -1px;
+}
+}
+
+@media (max-width:320px){
+.banner-info-items {
+    top: 50%;
+    left: 35%;
+}
+.banner-info-items:after {
+    left: 15px;
+}
+.banner-info-items h1 {
+    font-size: 20px;
+}
+.banner-info-items p {
+    width: 100%;
+}
+.about-area {
+    padding-top: 43px;
+}
+.about-items h3 {
+    font-size: 13px;
+    margin: 0 0 10px;
+}
+.skill-info h2 {
+    font-size: 16px;
+}
+.big-title p {
+    width: 100%;
+}
+.our-testimonial .testimonial-info p {
+    margin: 0;
+    width: 100%;
+}
+.content h4 {
+    margin: 0 0 7px;
+}
+}
+
+
+
+
+
